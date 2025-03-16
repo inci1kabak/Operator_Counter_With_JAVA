@@ -1,4 +1,4 @@
-# Operator Counting Program #
+# Operator Counting Program : #
 This project is a console application that reads a *.cpp file from a user-specified full path and calculates the total number of unary, binary, and ternary operators within the file's content.
 
 ## Features :
