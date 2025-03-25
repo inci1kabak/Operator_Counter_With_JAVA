@@ -9,5 +9,5 @@ Java Programming Language: Developed using Java in the Eclipse IDE.
 Regex Utilization: Regular expressions (regex) are used for code parsing.
 
 ## Usage :
-Run the program and enter the full path to the file via the console.
-The program will read the specified file, count the operators, and print the result on the console.
+Run the program and enter the full path to the file via the console
+The program will read the specified file, count the operators, and print the result on the console
